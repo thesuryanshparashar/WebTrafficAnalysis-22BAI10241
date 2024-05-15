@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/workspaces/WebTrafficAnalysis-22BAI10241/project/"), "webtrafficanalysis-22bai10241-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating webtrafficanalysis-22bai10241-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved webtrafficanalysis-22bai10241-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of webtrafficanalysis-22bai10241-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of webtrafficanalysis-22bai10241-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/workspaces/WebTrafficAnalysis-22BAI10241/project/"), "webtrafficanalysis-22bai10241-build")[0m

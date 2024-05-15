@@ -1,0 +1,14 @@
+{
+    "name": "Scala",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+      "scala-lang.scala"
+    ],
+    "postCreateCommand": "sbt compile"
+  }
+  
